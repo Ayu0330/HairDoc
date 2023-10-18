@@ -145,6 +145,7 @@ nav ul li a{
     flex-wrap: wrap;
     align-items: center;
     text-align: center;
+    font-weight: 700;
 }
 .features{
     flex-basis: 50%;
