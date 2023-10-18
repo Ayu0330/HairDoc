@@ -1,6 +1,6 @@
 # Hair Salon Website
 
-#Hair Salon
+### Hair Salon
 
 This is a simple frontend project for a hair salon website, built with HTML, CSS, and JavaScript. The website provides essential information about the salon's services, team, and contact details.
 
